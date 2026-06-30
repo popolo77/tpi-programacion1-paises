@@ -106,9 +106,7 @@ https://github.com/popolo77/tpi-programacion1-paises.git
 
 ## Video demostrativo
 
-Pendiente de carga.
-
-Importante: el video demostrativo es un requisito excluyente segun la rubrica. Debe agregarse el link cuando este disponible.
+Video demostrativo: https://youtu.be/xxf4p5VXfwc
 
 ## Documentacion
 
